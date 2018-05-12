@@ -7,7 +7,7 @@ creator:
   authors:
   - agent_name: Addison, Joseph
     alias: Bickerstaff, Isaac
-    birthdate: &id001 1672
+    birthdate: 1672
     deathdate: 1719
     gutenberg_agent_id: '1024'
     url: http://www.gutenberg.org/2009/agents/1024
@@ -17,7 +17,7 @@ creator:
     - Edgar, John, Sir
     - Bickerstaff, Isaac
     - Steele, R. (Richard), Sir
-    birthdate: *id001
+    birthdate: 1672
     deathdate: 1729
     gutenberg_agent_id: '984'
     url: http://www.gutenberg.org/2009/agents/984
@@ -30,6 +30,8 @@ creator:
     gutenberg_agent_id: '5169'
     url: http://www.gutenberg.org/2009/agents/5169
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45769#The-Tatler-Volume-Two
 gutenberg_issued: '2014-05-26'
 gutenberg_type: Text
 identifiers:
